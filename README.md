@@ -23,3 +23,4 @@ Tendremos una página web que enlaza a otras tres páginas, la pizzería se llam
 *-Empleados:* Dispondran de toda la informacion necesaria segun su funcion y servira para gestionar los pasos a realizar por cada miembro del personal.
 
 
+*-Posibles problemas:* Como controlar las tareas de los empleados a la hora de programar.  
