@@ -14,3 +14,10 @@ La idea de este proyecto ha concluido en una **pizzería**. Una idea simple pero
 Tendremos una página web que enlaza a otras tres páginas, la pizzería se llamará **PiShop**.
 
 ![](Images/Screenshot_1.png)
+
+
+### La aplicacion estara dividida en dos casos de uso completamente diferentes, la principal que esta destinada a clientes y la destinada exclusivamente ha empleados.
+
+*-Principal:* Para visualizar los productos disponibles y hacer los pedidos(recogida en Restaurante, envios a domicilio).
+
+*-
