@@ -20,4 +20,6 @@ Tendremos una página web que enlaza a otras tres páginas, la pizzería se llam
 
 *-Principal:* Para visualizar los productos disponibles y hacer los pedidos(recogida en Restaurante, envios a domicilio).
 
-*-
+*-Empleados:* Dispondran de toda la informacion necesaria segun su funcion y servira para gestionar los pasos a realizar por cada miembro del personal.
+
+
