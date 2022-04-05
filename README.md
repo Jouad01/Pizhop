@@ -2,7 +2,7 @@
 
 >En este repositorio se encuentra nuestro proyecto final global, que ha sido fruto del trabajo del tercer trimeste de _CFGS de Desarrollo Web_.
 
-[![python version](https://img.shields.io/badge/python-v3.9-blue)](https://www.python.org/downloads/)
+[![python version](https://img.shields.io/badge/java-11)](https://www.python.org/downloads/)
 [![status application](https://img.shields.io/badge/status-stable-brightgreen)](https://github.com/Jouad01/Proyecto-Final-Global-DAW.git)
 
 ## Introducción
