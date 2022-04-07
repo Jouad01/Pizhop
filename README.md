@@ -2,7 +2,7 @@
 
 >En este repositorio se encuentra nuestro proyecto final global, que ha sido fruto del trabajo del tercer trimeste de _CFGS de Desarrollo Web_.
 
-[![JAVA version](https://img.shields.io/badge/java-v3.9-orange)](https://www.java.org/downloads/)
+[![JAVA version](https://img.shields.io/badge/java-v3.9-orange)](https://www.JAVA.org/downloads/)
 [![status application](https://img.shields.io/badge/status-stable-brightgreen)](https://github.com/Jouad01/Proyecto-Final-Global-DAW.git)
 
 ## Introducción
@@ -14,5 +14,4 @@ La idea de este proyecto ha concluido en una **pizzeria**. Una idea simple pero 
 Tendremos una página web que enlaza a otras tres páginas, la pizzería se llamará **PiShop**.
 
 ![](Images/Screenshot_1.png)
-
 
